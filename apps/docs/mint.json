@@ -60,8 +60,8 @@
     {
       "group": "Essentials",
       "pages": [
-        "essentials/markdown",
         "essentials/code",
+        "essentials/markdown",
         "essentials/images",
         "essentials/settings",
         "essentials/navigation",
